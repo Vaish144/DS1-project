@@ -25,7 +25,7 @@ We will use this data to investigate questions such as:
 - what are some common characteristics of top-selling books?
 We will be employing a range of visualization and data analysis techniques, including histograms and box plots. Through these methods, we hope to uncover valuable insights into the book market.
 
-We scraped the data for 54 genres using requests and scraperapi for this project.
+We scraped the data for **54 genres** using requests and scraperapi for this project.
 
 **In this project, I handled the Image feature extraction section.**
 
