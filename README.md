@@ -17,7 +17,7 @@ The dataset contains information on following attributes : The columns in the da
 - No_of_ratings : Total number of ratings
 - cover_img_url : Url of Image of Book cover
 - genre : Genre of book
-- 
+
 We will use this data to investigate questions such as:
 - What are the most popular genres among readers?
 - How do book prices vary across genres?
